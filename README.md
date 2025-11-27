@@ -144,10 +144,10 @@ python app.py
 **Output**:
 ```
 Model Metrics:
-MSE: 45.32
-RMSE: 6.73
-MAE: 5.21
-R2_Score: 0.8745
+MSE: 9.77
+RMSE: 3.13
+MAE: 1.84
+R2_Score: 0.9970
 ```
 
 ### Using the Trained Model
